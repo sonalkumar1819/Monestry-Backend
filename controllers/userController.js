@@ -492,4 +492,4 @@ export {
 
 
 
-console.log("User controller loaded 2222");
+console.log("User controller loaded");
