@@ -489,3 +489,7 @@ export {
   getWishlist,
   toggleWishlist,
 };
+
+
+
+console.log("User controller loaded");
